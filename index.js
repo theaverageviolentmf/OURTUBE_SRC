@@ -1,0 +1,1 @@
+// if you found this... great job. dm "7nk4n" on discord with this sentence: "life is a weird, wait i have a beard" for a prize... and dont tell anyone you found this :P, also should i cut down on the emoticons? nahh :J
