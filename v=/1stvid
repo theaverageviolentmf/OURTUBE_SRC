@@ -51,6 +51,6 @@
     <button>Dislike</button>
     <!--this is a Dev feature, not intended for regular use because of convenience
     note: DOESN'T BREAK TOS-->
-    <a href="https://numberonecommunismlover.cloud/v1d30/video.mov" download><button hidden>Download video</button></a>
+    <a><button hidden>Download video</button></a>
   </form>
   </body>
