@@ -42,9 +42,8 @@
   </header>
   <body>
   <!--input video-->
-<video width="600" controls auto>
-<source src="http://numberonecommunismlover.cloud/v1d30/video.mov/" type="video/mov">
-<p>this video is not available</p>
+<video width="600" controls>
+<source src="http://numberonecommunismlover.cloud/v1d30/video.mov" type="video/mov">
 </video>
     <form>
     <button class="subscribe">Subscribe</button>
