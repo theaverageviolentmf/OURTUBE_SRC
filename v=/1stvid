@@ -38,17 +38,20 @@
 </style>
 <header>
   <a href="https://ourtube.lol/"><button class="To-Mainpage">Ourtube</button>
-  <title>put TAB title</title>
+  <title>1st video, also look a customisable tab title, thats what we can provide</title>
   </header>
   <body>
   <!--input video-->
-  
+<video width="600" controls auto>
+<source src="http://numberonecommunismlover.cloud/v1d30/video.mov/" type="video/mov">
+<p>this video is not available</p>
+</video>
     <form>
     <button class="subscribe">Subscribe</button>
     <button>like</button>
     <button>Dislike</button>
     <!--this is a Dev feature, not intended for regular use because of convenience
     note: DOESN'T BREAK TOS-->
-    <button hidden>Download video</button>
+    <a href="numberonecommunismlover.cloud/v1d30/video.mov"><button hidden>Download video</button></a>
   </form>
   </body>
