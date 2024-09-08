@@ -33,3 +33,6 @@
   .subscribe:active {
     opacity: 0.9;
   }
+.description {
+  width: 300px;
+}
