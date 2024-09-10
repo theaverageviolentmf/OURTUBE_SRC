@@ -35,4 +35,6 @@
   }
 .description {
   width: 300px;
+  background-color: gray;
+  border-radius: 10px;
 }
