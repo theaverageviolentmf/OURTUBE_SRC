@@ -37,4 +37,6 @@
   width: 300px;
   background-color: gray;
   border-radius: 10px;
+  padding-left: 10px;
+  font-family: sans-serif;
 }
