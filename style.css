@@ -68,3 +68,9 @@
   h2 {
     font-family: sans-serif;
   }
+.news [
+background-color: lime;
+border: none;
+height: 30px;
+border-radius: 50%;
+}
