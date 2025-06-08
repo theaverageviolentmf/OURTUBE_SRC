@@ -11,6 +11,25 @@
   <a href="https://ourtube.lol/Donate.html"><button class="donate">DONATE</button></a>
   <button class="news">News</button>
 </header>
+<script>
+  function acceptCookie() {
+    // Store a cookie
+    document.cookie = "consent=granted; path=/; max-age=" + (60 * 60 * 24 * 365); // 1 year
+
+    // Hide overlay
+    document.getElementById("cookie-overlay").style.display = "none";
+  }
+
+  // Show overlay only if cookie isn't already set
+  window.onload = function() {
+    if (document.cookie.indexOf("consent=granted") === -1) {
+      document.getElementById("cookie-overlay").style.display = "flex";
+    } else {
+      document.getElementById("cookie-overlay").style.display = "none";
+    }
+  };
+</script>
+
 <body>
   <!-- Blurred background + overlay -->
 <div id="cookie-overlay">
