@@ -68,7 +68,7 @@
   h2 {
     font-family: sans-serif;
   }
-.news [
+button.news {
 background-color: lime;
 border: none;
 height: 30px;
